@@ -1,7 +1,6 @@
-
 # Om
 
-MSc Statistics🎓. exploring AI, economics, decision-making, and complex systems through data.
+MSc Statistics . exploring AI, economics, decision-making, and complex systems through data.
 
 ## Current Focus
 
@@ -26,6 +25,7 @@ Empirical analysis of factors affecting life expectancy across 193 countries usi
 ## Connect
 
 X: https://x.com/om_vespyn
+
 LinkedIn: coming soon 
 
 <!--
