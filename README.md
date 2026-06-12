@@ -26,7 +26,7 @@ Empirical analysis of factors affecting life expectancy across 193 countries usi
 
 X: https://x.com/om_vespyn
 
-LinkedIn: coming soon 
+LinkedIn: https://www.linkedin.com/in/om-upadhyay-802171416?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 <!--
 **OM-datascience/OM-datascience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
